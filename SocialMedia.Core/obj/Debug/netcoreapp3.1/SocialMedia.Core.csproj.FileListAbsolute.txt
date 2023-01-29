@@ -1,0 +1,10 @@
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\bin\Debug\netcoreapp3.1\SocialMedia.Core.deps.json
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\bin\Debug\netcoreapp3.1\SocialMedia.Core.dll
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\bin\Debug\netcoreapp3.1\SocialMedia.Core.pdb
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.csproj.AssemblyReference.cache
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.AssemblyInfoInputs.cache
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.AssemblyInfo.cs
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.csproj.CoreCompileInputs.cache
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.dll
+C:\Programacion\OpenBootcamp\.NET\Practica\Social\SocialMedia.Core\obj\Debug\netcoreapp3.1\SocialMedia.Core.pdb
